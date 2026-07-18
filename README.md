@@ -85,8 +85,8 @@ Example:
 
 ```java
 String url = "jdbc:mysql://localhost:3306/hospital_management";
-String username = "root";
-String password = "your_password";
+String username = "pramesh";
+String password = "9748421356";
 ```
 
 6. Add the MySQL JDBC Driver.
