@@ -123,7 +123,7 @@ String password = "9748421356";
 
 ## ✅ Patient Added Confirmation
 
-![Patient Added](Screenshots/Patient_Added_Confirmation.png)
+![Patient Added](Screenshots/Patient_Added_Confirmaton.png)
 
 ---
 
